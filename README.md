@@ -3,7 +3,7 @@ This package helps us to use signals in Golang
 
 ## How to install
 ```bash
-$ go install github.com/renanbastos93/ossignals-go
+$ go install github.com/renanbastos93/ossignals
 ```
 
 ## How to use
